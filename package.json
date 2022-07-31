@@ -2,7 +2,7 @@
   "name": "zi_outfit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nikitereh.github.io/zi_outfit_store",
+  "homepage": "https://nikitereh.github.io/zi_outfit_store#home",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
