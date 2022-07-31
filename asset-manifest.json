@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/zi_outfit_store/static/css/main.76f6f32b.css",
+    "main.js": "/zi_outfit_store/static/js/main.bd64ba45.js",
+    "static/media/meal.mp4": "/zi_outfit_store/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/zi_outfit_store/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/findus.png": "/zi_outfit_store/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/zi_outfit_store/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/menu.png": "/zi_outfit_store/static/media/menu.2afa9f0d99a6e81f5e61.png",
+    "static/media/gallery04.png": "/zi_outfit_store/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/zi_outfit_store/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/zi_outfit_store/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/zi_outfit_store/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/middleImage.png": "/zi_outfit_store/static/media/middleImage.914c4b9a2b41e0ecea68.png",
+    "static/media/overlaybg.png": "/zi_outfit_store/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/welcome.jpg": "/zi_outfit_store/static/media/welcome.5705d634ea3597201830.jpg",
+    "static/media/logo.png": "/zi_outfit_store/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/zi_logo.png": "/zi_outfit_store/static/media/zi_logo.91c1f2738a8c4f4a2004.png",
+    "static/media/sign.png": "/zi_outfit_store/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/zi_outfit_store/index.html",
+    "main.76f6f32b.css.map": "/zi_outfit_store/static/css/main.76f6f32b.css.map",
+    "main.bd64ba45.js.map": "/zi_outfit_store/static/js/main.bd64ba45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76f6f32b.css",
+    "static/js/main.bd64ba45.js"
+  ]
+}
