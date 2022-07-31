@@ -1,3 +1,7 @@
+.headText__cormorant {
+  color: var(--color-golden);
+}
+
 .app__specialMenu {
   flex-direction: column;
   background: var(--color-black);

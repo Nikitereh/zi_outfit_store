@@ -2,11 +2,12 @@
   "name": "zi_outfit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nikitereh.github.io/zi_outfit_store#home",
+  "homepage": "https://nikitereh.github.io/zi_outfit_store",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "browserify": "^17.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
@@ -40,6 +41,10 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "envify": "^4.1.0",
+    "gh-pages": "^4.0.0",
+    "terser": "^5.14.2",
+    "terser-brunch": "^4.1.0",
+    "uglifyify": "^5.0.2"
   }
 }

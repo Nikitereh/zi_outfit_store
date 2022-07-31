@@ -9,7 +9,6 @@ import overlaybg from '../assets/overlaybg.png';
 import welcome from '../assets/welcome.jpg';
 import findus from '../assets/findus.png';
 import laurels from '../assets/laurels.png'; 
-import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import zi_logo from '../assets/zi_logo.png';
 import scissors from '../assets/scissors.png';
@@ -30,6 +29,5 @@ export default {
   welcome,
   findus,
   laurels,
-  sign,
   quote,
 };
